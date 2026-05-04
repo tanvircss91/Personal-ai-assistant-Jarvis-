@@ -3,50 +3,49 @@
 
 ---
 
-## ফাইল তালিকা (সব ফাইল একই ফোল্ডারে রাখো):
+## All file input 1 main file :
 
-| ফাইল | কাজ |
 |---|---|
-| `jarvis.py` | **Main file** — সব Phase একসাথে, এটাই চালাও |
+| `jarvis.py` | **Main file** —
 | `jarvis_phase2.py` | Phase 2 extra features module |
 | `jarvis_phase3.py` | Phase 3 — Email, Music, Wake Word module |
 | `jarvis_phase4.py` | Phase 4 — Auto Voice, 3D Boot Animation module |
-| `START_JARVIS.bat` | Double click করলেই সব চালু হবে |
-| `README.md` | এই ফাইল |
+| `START_JARVIS.bat` | Double click to start
+| `README.md` | this file
 
 ---
 
-## চালু করার নিয়ম:
+## Jarvis Start guild:
 
-### ধাপ ১ — ফোল্ডার বানাও:
+### Step 1:
 ```
 C:\JARVIS\
 ```
 
-### ধাপ ২ — সব ফাইল রাখো:
+### Step 2:
 - jarvis.py
 - jarvis_phase2.py
 - jarvis_phase3.py
 - jarvis_phase4.py
 - START_JARVIS.bat
 
-### ধাপ ৩ — START_JARVIS.bat তে double click করো
+### ধাপ ৩ — START_JARVIS.bat  double click to start
 
 ---
 
 ## Ollama (Free AI) Setup:
-1. https://ollama.com থেকে download করো
-2. Install করো
+1. https://ollama.com  download 
+2. Install
 3. CMD তে লেখো: `ollama pull llama3.2`
-4. JARVIS চালু করো
+4. JARVIS start now
 
 ---
 
-## Phase 4 নতুন features:
-- 🎙 **Auto Voice** — শুধু কথা বলো, কোনো command লাগবে না
-- 🔊 **Always Speaks** — সব উত্তর voice-এ বলবে
-- 🎬 **3D Boot Animation** — matrix hacker effect
-- 👋 **Custom Greeting** — Hello Tanvir Boss, I am Your Assistant JARVIS
+## Phase 4 New features:
+- 🎙 **Auto Voice** —
+- 🔊 **Always Speaks** — 
+- 🎬 **3D Boot Animation** — 
+- 👋 **Custom Greeting** — 
 
 ---
 
@@ -79,16 +78,16 @@ C:\JARVIS\
 
 ### Phase 4:
 `auto listen on/off` `voice on/off`
-(অথবা শুধু কথা বলো — auto-listen সবসময় চালু!)
+ auto-listen 
 
 ---
 
-## Email App Password পাওয়ার নিয়ম:
-1. Google Account এ যাও
-2. Security → 2-Step Verification চালু করো
-3. App passwords → Create → নাম দাও "JARVIS"
-4. যে password দেবে সেটা ব্যবহার করো
+## Email App Password Finder :
+1. Google Account 
+2. Security → 2-Step Verification
+3. App passwords → Create → Name "JARVIS"
+4. যে password দেবে সেটা use করো
 
 ---
 
-*JARVIS by Tanvir Boss | Phase 1+2+3+4 Complete*
+*JARVIS by Tanvir Ahmmed Pias
