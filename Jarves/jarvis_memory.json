@@ -1,0 +1,156 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "open youtube",
+      "time": "2026-04-17T16:22:01.811380"
+    },
+    {
+      "role": "assistant",
+      "content": "🎬 Opening YouTube: 'trending'",
+      "time": "2026-04-17T16:22:02.303202"
+    },
+    {
+      "role": "user",
+      "content": "instagram ki panch aisi rels jo kafi jyada trending mein",
+      "time": "2026-04-17T16:22:23.932285"
+    },
+    {
+      "role": "assistant",
+      "content": "CPU:8.6%  RAM:79.1%  Battery:N/A  OS:Windows 10",
+      "time": "2026-04-17T16:22:25.647101"
+    },
+    {
+      "role": "user",
+      "content": "jismein number 5 per",
+      "time": "2026-04-17T16:22:34.229455"
+    },
+    {
+      "role": "assistant",
+      "content": "Top Instagram Relatable Posts:\n\n4. #HomeDecorInspo\n3. #GamingLife\n2. #PetLove\n1. #MotivationMonday",
+      "time": "2026-04-17T16:22:44.368462"
+    },
+    {
+      "role": "user",
+      "content": "number 3 per aati hai sanchita bansur ki",
+      "time": "2026-04-17T16:22:53.298135"
+    },
+    {
+      "role": "assistant",
+      "content": "Apni pet ke saath bas rahi! Agar aapko lagta hai, toh maine Instagram par \"PetLove\" peh trending content dikhaya.",
+      "time": "2026-04-17T16:23:03.323594"
+    },
+    {
+      "role": "user",
+      "content": "number van",
+      "time": "2026-04-17T16:23:10.002994"
+    },
+    {
+      "role": "assistant",
+      "content": "Pehla #MotivationMonday, doosra #GamingLife",
+      "time": "2026-04-17T16:23:18.340768"
+    },
+    {
+      "role": "user",
+      "content": "always speak",
+      "time": "2026-04-17T16:24:53.290603"
+    },
+    {
+      "role": "assistant",
+      "content": "Tanvir Boss! It looks like you're trying to test my language processing skills again. How can I assist you today?",
+      "time": "2026-04-17T16:25:02.591177"
+    },
+    {
+      "role": "user",
+      "content": "always speak",
+      "time": "2026-04-17T16:25:11.294359"
+    },
+    {
+      "role": "assistant",
+      "content": "Tanvir Boss! I'm always here to help, and now it seems you want me to keep talking, right?\n\nSo, have you planned a fun weekend? Or perhaps something exciting is on the horizon? Let's chat about it!",
+      "time": "2026-04-17T16:25:23.593694"
+    },
+    {
+      "role": "user",
+      "content": "speed test",
+      "time": "2026-04-17T16:25:46.427238"
+    },
+    {
+      "role": "assistant",
+      "content": "Internet Speed Test:\n  ↓ Download : 88.80 Mbps\n  ↑ Upload   : 90.17 Mbps\n  ⟳ Ping     : 8 ms",
+      "time": "2026-04-17T16:26:08.535526"
+    },
+    {
+      "role": "user",
+      "content": "youtube lofi",
+      "time": "2026-04-17T16:26:24.327976"
+    },
+    {
+      "role": "assistant",
+      "content": "🎬 Opening YouTube: 'lofi'",
+      "time": "2026-04-17T16:26:24.775408"
+    },
+    {
+      "role": "user",
+      "content": "open chrome",
+      "time": "2026-04-17T22:02:44.063027"
+    },
+    {
+      "role": "assistant",
+      "content": "Opening chrome.",
+      "time": "2026-04-17T22:02:44.351277"
+    },
+    {
+      "role": "user",
+      "content": "youtube",
+      "time": "2026-04-17T22:02:57.107668"
+    },
+    {
+      "role": "assistant",
+      "content": "🎬 Opening YouTube: 'trending'",
+      "time": "2026-04-17T22:02:57.660956"
+    },
+    {
+      "role": "user",
+      "content": "amar sonar bangla ami tomay",
+      "time": "2026-04-17T22:03:12.601476"
+    },
+    {
+      "role": "assistant",
+      "content": "\"Amar Sonar Bangla\" - the national anthem of Bangladesh! Beautiful lyrics, Tanvir Boss!\n\n(Translation: \"My fatherland, I love you / My country, I love you\")",
+      "time": "2026-04-17T22:03:27.530182"
+    },
+    {
+      "role": "user",
+      "content": "play amar sonar bangla ami tomay bhalobashi on youtube",
+      "time": "2026-04-17T22:03:42.121172"
+    },
+    {
+      "role": "assistant",
+      "content": "No music in C:\\Users\\piasy\\Music",
+      "time": "2026-04-17T22:03:42.646296"
+    },
+    {
+      "role": "user",
+      "content": "play amar sonar bangla am",
+      "time": "2026-04-17T22:03:52.877809"
+    },
+    {
+      "role": "assistant",
+      "content": "No music in C:\\Users\\piasy\\Music",
+      "time": "2026-04-17T22:03:53.401384"
+    },
+    {
+      "role": "user",
+      "content": "file",
+      "time": "2026-04-17T22:03:57.105478"
+    },
+    {
+      "role": "assistant",
+      "content": "No file found. Try searching within C:\\Users\\piasy\\Music or on YouTube.",
+      "time": "2026-04-17T22:04:04.400300"
+    }
+  ],
+  "notes": [],
+  "reminders": []
+}
